@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/mmatos
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mmatoscom.github.io
+  * I am mmatos (https://keybase.io/mmatos) on keybase.
+  * I have a public key with fingerprint B5E4 A477 1763 A9F0 CAA4  0879 BE46 7F4A A6EC 41F3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a40b6bc0b5b35cbcd69baa106194efb17304532f1f6863982c16fd576a36571c0a",
+            "fingerprint": "b5e4a4771763a9f0caa40879be467f4aa6ec41f3",
+            "host": "keybase.io",
+            "key_id": "be467f4aa6ec41f3",
+            "kid": "0101e5d298311db79b130f20b911b794ce95c84c3d7dfb638c853790886e420600820a",
+            "uid": "32a0eb2931700bb833c2f23273093c19",
+            "username": "mmatos"
+        },
+        "service": {
+            "hostname": "mmatoscom.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1476584935,
+    "expire_in": 157680000,
+    "prev": "62392bb8c828d3aa1c88e21c3159b904fe2f3927d285b98f20635c9dd4033884",
+    "seqno": 41,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMNxAnicbVJ9TFVlGL+gGFxDWHxoDdGOgFQXOOe85/NKJLWgUMzNJkwROB/vuffA
+5Z7ruR9wAzJBYDGTQhka0kZTksh2tz5G2C0gLeDSIiEUdSFtCRqyslYrtXov1Vpb
+7z/v3uf9Pb/n93ue52zkMoMx5KOcfXndC9k/hgQGO92GwtBv56oxUZO9mLkaK4dL
+F7TJ0OkqKVdlzIzhBE4IFC4yooSLtAhoSZRkhhcFgcAZgqegIhIswCkakAqhMBwD
+eI6UCEaRaZYRAEOzhIQLmAlTVLsF6g5dtbsQrUhDSqBYlmAZIPAKLgmoCMfyIqQY
+VqEEgYESRSgAJVo1ZzADiRMFJ0xXNRRDj5Ilef+D/1c3pGWS5wBByCJiJgCukLjI
+EwR6URLkaYmjJCCzsiIygJM4GrA8znEMpEicwXGOXNLtXqIDpIBDkeQBweK4KHIA
+SKRCAhJZ54FE8EGgE+p2oQIidEWF4NKcWK0JQzGPKsFgW4M+/vMvaRXpFtVldYt/
+mXLomkuTNBsCWF0uh9McJHB5HcGMSiiW/M1VIqp2GTUTZXig7lQ1O2YmEFJyqUFy
+gmIZmqN4QJswWOVQdViiBhFoHByOTrAO9CBKhgQ8iaxIHMnJAM1T4jhIEhIgaF7k
+cUqBpIIQrExytMhzqHcMmj4vyxQOAMdRWNDdXruGmSkC6RQsiNOpWuyCy61DrHZo
+sGi5IcRoWBEWGtwygzEi+p/d05Vow4GJhmsJJ8Yfr9o3uvaY/6WyZ7Znraob31E2
+f7M31nnqxdbaXVzY9KO24zXZxY90faNm7h+Mf2XbHd30ptvdXfRAfcauI9cjk8ui
+hm7n26IS+8dTh7xtgc1ze3b4jNe255UXmksDD+UNf+Vp0Sb3+yr9G0u9o2NZOZRA
+bLFb6KvX/dLB9wLwtZb28MSEX3I2wytpw58VvJO0sKksLPzDryNSZmb5c4uZ7Yew
+gfsr9OHi1DORkyaD8uVh3q0fvdpf2jgfX1voGTG/NfAFaLUUHu9mPomNbHg7YTYt
+sUGMerfpp7Tv19yF6+4J/aB5fcHd5JGV7bC5P3nNhcE+X0++MfyF4lvegvKWzl6L
+/9fsVH9V/w1hNjOQFqG0PdVxKafxAGefTlqITfm5bYU3sUvptKw+rV/aMDZlPJH/
+vLhI36jZOvj5sQs9GXPZB0PqB3qzmN0z6y7a3jhtXUXETH28ceHhrjt1vlu5gN3Z
++ljg8pmtO5OK/ki59/X59Jff78utazq8G+98Tkid6exubonDF+MPdYxlxFn7wlbu
+sRbnZt5OOBp/qrpxNAZe7HP+Xhh3c7r/rOPySJIvvTEqw//dE1pP2IbybeZnFU/H
+edPqjiJffeZU1kTD0xPR66fz3KUnhz+tDZBHtgi//VB3Eq512h4cePLc8oJXN13Z
+G1NZ0LTsfM19PVqLaWzyT5MYt6A=
+=5vhj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mmatos
+
+==================================================================
