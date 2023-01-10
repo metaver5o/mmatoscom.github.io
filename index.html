@@ -1,11 +1,8 @@
 <meta http-equiv="refresh" content="1;URL='main.html'">
 <img src="error.png" width="100%">
 
-<audio id="sound" src="sound.mp3"></audio>
-
-var sound = document.getElementById("sound");
-sound.play();
-
-sound.onended = function() {
-  sound.remove();
-};
+<audio controls>
+    <source src="sound.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  
